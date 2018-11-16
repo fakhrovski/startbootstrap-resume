@@ -5,7 +5,7 @@
   "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
   "scripts": {
     "build": "node node_modules/gulp/bin/gulp",
-    "wh": "which gulp"
+    "start": "gulp browserSync"
   },
   "keywords": [
     "css",
